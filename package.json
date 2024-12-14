@@ -1,0 +1,13 @@
+{
+  "name": "whatsapp-bot",
+  "private": true,
+  "scripts": {
+    "start": "node bot.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "whatsapp-web.js": "^1.23.0",
+    "qrcode-terminal": "^0.12.0",
+    "puppeteer": "^21.6.1"
+  }
+}
